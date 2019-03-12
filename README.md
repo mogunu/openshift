@@ -1,2 +1,2 @@
-# openshift
-Openshift
+# Openshift
+Openshift origin
