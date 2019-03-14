@@ -1,2 +1,2 @@
 # Openshift
-Openshift origin
+OKD 3.10 Installation
