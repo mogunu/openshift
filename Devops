@@ -1,0 +1,12 @@
+Responsible to maintain all Openshift Clusters
+Performance optimization, regular health checks on Cluster and Systematic Troubleshooting of problems
+Gitlab CI/CD pipline configuraton/ Pod Deployment to Openshift Cluster
+Analysing Cluster performance trouble shooting by using OC client
+Managing traffic failover from two difference datacenter clusters.
+Finding Root Cause of any problem with high severity
+Creating knowledge database for known issues
+Administration of Ceph Block Storage (Adding Disk to the rook ceph manager & managed root disks, size increase/decrease)
+PV & PVC creation in openshift cluster
+Automation with Bash script and ansible playbook for Openshift cluster activity
+Administration of Prometheus Monitoring system and Alert Manager
+Troubleshooting Memory, Disk and Filesystem related issues.
